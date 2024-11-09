@@ -22,7 +22,7 @@
 *.swp
 
 # Ignore sensitive or environment-specific files
-.env
+
 secrets.json
 
 # Ignore operating system files
